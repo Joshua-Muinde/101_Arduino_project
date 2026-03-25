@@ -6,6 +6,7 @@ const int ledPin = 13;
 
 // defines variables
 // defines variables
+// defines variables
 long duration;
 int distance;
 int safetyDistance;
