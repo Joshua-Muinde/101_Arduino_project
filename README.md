@@ -1,31 +1,32 @@
 # Arduino 101
 
-Welcome to the **Arduino 101** repository. This is a collaborative project containing our introductory Arduino circuits and code. All the projects in this repository are programmed in C++.
+Welcome to the Arduino 101 repository! This is a collaborative project containing our introductory C++ code for Arduino.
 
 ## Collaborators
-* [Joshua](Link_to_GitHub)
-* [Kebaso](Link_to_GitHub)
-* [Paul](Link_to_GitHub)
-* [Sandrine](Link_to_GitHub)
+* [Joshua](https://github.com/Joshua-Muinde)
+* [Kebaso](https://github.com/Kebaso05)
+* [Paul](https://github.com/paul-username)
+* [Sandrine](https://github.com/sandrine-username)
 
-## Projects Included
+## Projects Overview
 
 ### 1. Turn LED ON and OFF With Button
-[cite_start]A basic setup to turn an LED on and off with a push button[cite: 3]. 
+We wired an LED and a push button to the Arduino. Pressing the button turns the LED on or off.
 
 ### 2. Push Button LED Control (Hold to Light)
-An interactive circuit where the LED only lights up while the push button is physically held down.
+We modified the button circuit so the LED only stays on while the button is held down. It turns off when you let go.
 
 ### 3. Traffic Lights System
-A simulation of a traffic light sequence using three LEDs: Green, Amber, and Red.
+We set up three LEDs (Green, Amber, and Red) and coded them to turn on and off in a timed sequence, just like a real traffic light.
 
 ### 4. Ultrasonic Alarm System
-[cite_start]A security-style project using an HC-SR04 Ultrasonic Sensor, a buzzer, and an LED[cite: 233]. It functions as a distance-triggered alarm system.
+We built a security alarm using an HC-SR04 Ultrasonic Distance Sensor, a buzzer, and an LED. If an object gets too close to the sensor, the LED lights up and the buzzer sounds.
 
-## Hardware & Components Used
-* [cite_start]Arduino Board [cite: 30, 235]
-* [cite_start]Breadboard and Jumper Wires [cite: 31, 36, 237, 238]
-* [cite_start]LEDs and Push Buttons [cite: 32, 33, 240]
-* [cite_start]Resistors (220 Ohm and 10k Ohm) [cite: 34, 35, 241]
-* [cite_start]Ultrasonic Sensor HC-SR04 [cite: 236]
-* [cite_start]Buzzer [cite: 239]
+## Hardware Used
+* Arduino Board
+* Breadboard and jumper wires
+* LEDs (Red, Green, Amber)
+* Push buttons
+* Resistors (220 Ohm, 10k Ohm)
+* HC-SR04 Ultrasonic Sensor
+* Buzzer
