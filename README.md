@@ -6,7 +6,7 @@ Welcome to the Arduino 101 repository! This is a collaborative project containin
 * [Joshua](https://github.com/Joshua-Muinde)
 * [Kebaso](https://github.com/Kebaso05)
 * [Paul](https://github.com/mungaipaul6669)
-* [Sandrine](https://github.com/sandrine-username)
+* [Sandrine](https://github.com/s4ndr1n3-eng)
 
 ## Projects Overview
 
