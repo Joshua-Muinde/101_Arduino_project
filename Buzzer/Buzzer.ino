@@ -4,8 +4,7 @@ const int echoPin = 10;
 const int buzzer= 11;
 const int ledPin = 13;
 
-// defines variables
-// defines variables
+
 // defines variables
 long duration;
 int distance;
